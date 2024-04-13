@@ -23,4 +23,5 @@ jobs:
         with:
           node-version: 20
           cache: 'npm'
-      - uses: markpatterson27/autograding@v1
+      - uses: n2fl/autograding7@v1
+      
